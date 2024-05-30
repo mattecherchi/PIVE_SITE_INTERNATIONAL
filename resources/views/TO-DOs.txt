@@ -1,0 +1,12 @@
+À faire:
+  - widgets insta/FB
+  - ajout des universités favories
+  - types de fichiers pdf/docx/doc/odt et préciser que c est des fichiers pour les admins
+  - message de demande modification fiche candidature
+
+
+sudo mysql.server stop && sudo mysql.server start &&  php artisan serve --host=polytech-international.univ-lorraine.fr
+
+
+  - style radio fiche candidature (done)
+  - style demande changement fiche candidature (done)

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/ayoub_cm/Documents/WebSite/PIVE-Site-Web-International'
+make: Leaving directory `/Users/ayoub_cm/Documents/WebSite/PIVE-Site-Web-International'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
